@@ -35,6 +35,5 @@ public class Receiver {
             String name = message.getString("name");
             System.out.println(age+name);
         }
-
     }
 }
